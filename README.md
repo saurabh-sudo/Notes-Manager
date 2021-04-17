@@ -5,10 +5,11 @@ Notes-manager is an application which can be used to store, update, delete and c
 Here Note represents a text-only entity. Which would contain name, and information regarding the creator of the note.
 
 Features:
-Create Read Update Delete of Notes
-Retrieve list of deleted items
-Restore deleted Items
-Permanent Delete, Empty Trash
-Archiving of notes
-Time to Live for a deleted item
-Auto deleted on expiry
+
+1.  Create Read Update Delete of Notes  
+2.  Retrieve list of deleted items
+3.  Restore deleted Items
+4.  Permanent Delete, Empty Trash
+5.  Archiving of notes
+6.  Time to Live for a deleted item
+7.  Auto deleted on expiry
